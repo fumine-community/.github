@@ -27,6 +27,7 @@ will be appearing here as soon, as we will think it is reasonable.
 * `Ansible Prospect` - Open-Source GUI for Ansible
 * `Colloquium` - NLP framework.
 * `Panem` - Self hosting.
+* `Plaustrum` - UI frameworl-wrap around native APIs.
 * `Pylot` - E2E stress test tool for emulating human trafic on You web 
 infrastructure. With support of including Pentesting situations.
 * `SolidDust` - SolidJS transpiller to WASM.
